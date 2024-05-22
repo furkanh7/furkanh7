@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanh7&label=Profile%20views&color=0e75b6&style=flat" alt="furkanh7" /> </p>
 
-- 🔭 I’m currently working on [Festava Live](https://github.com/furkanh7/AcunMedyaAkademiFestival)
+- 🔭 I’m currently working on [Festava Live](https://github.com/furkanh7/AcunMedyaAkademiFestival) and  [HotelProject](https://github.com/furkanh7/HotelProject) and
 
 - 🌱 I’m currently learning **Asp.Net, Asp.Net Core, API, C#, SQL, MVC**
 
